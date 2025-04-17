@@ -11,6 +11,20 @@ This repository contains reference code for the Data Mining and Knowledge Proces
 ## 内容说明 / Contents
 
 - 实验代码示例 / Lab code examples
+- exp01-data-preprocessing: 文本数据预处理与词向量训练实验 / Text Data Preprocessing and Word2Vec Training
+  - 使用word2vec模型进行词向量训练
+  - 文本数据预处理流程实现
+  
+- exp02-sentiment-classificationn: 情感分类实验 / Sentiment Classification
+  - 基于BERT的情感分类模型
+  - 基于Qwen2.5的情感分类模型
+  - 包含训练数据集样例
+  
+- exp03-medical-knowledge-graph: 医疗知识图谱构建 / Medical Knowledge Graph Construction
+  - 实体识别与关系抽取
+  - Neo4j知识图谱存储
+  - 包含数据处理和图谱导入脚本
+    
 - 数据集样例 / Dataset samples
 - 实验指导文档 / Lab guidance documents
 
