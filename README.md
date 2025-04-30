@@ -24,7 +24,14 @@ This repository contains reference code for the Data Mining and Knowledge Proces
   - 实体识别与关系抽取
   - Neo4j知识图谱存储
   - 包含数据处理和图谱导入脚本
-    
+
+- exp04-easy-rag-system: 医疗检索增强生成系统 / Medical Retrieval-Augmented Generation System
+  - 基于 Milvus Lite 的向量数据库存储
+  - 利用预训练语言模型进行文本嵌入和问答生成
+  - HTML 文本预处理与分块
+  - 支持中文医疗问题查询和回答
+  - 包含完整的 Streamlit 可视化界面
+
 - 数据集样例 / Dataset samples
 - 实验指导文档 / Lab guidance documents
 

@@ -1,0 +1,13 @@
+# Ignore all directories named 'data'
+**/data/
+**/dataset/
+# Ignore all files named 'data'
+**/hf_cache/
+**/logs/
+**/models/
+**/results/
+**/runs/
+**/tmp/
+**/wandb/
+
+
