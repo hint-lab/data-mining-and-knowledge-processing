@@ -1,6 +1,6 @@
-# data-mining-and-knowledge-processing
+# Data-mining-and-knowledge-processing
 
-数据挖掘与知识处理课程实验参考代码 / Data Mining and Knowledge Processing Course Lab Reference Code
+上海大学《数据挖掘与知识处理》课程实验参考代码 / Data Mining and Knowledge Processing Experiment Course Reference Code, CES, Shanghai Univ.
 
 ## 项目简介 / Project Description
 
