@@ -10,4 +10,10 @@
 **/tmp/
 **/wandb/
 
+# Local Python environments and generated course outputs
+.venv/
+**/__pycache__/
+*.pyc
+**/outputs/
+
 

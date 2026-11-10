@@ -1,0 +1,25 @@
+label,title,text
+2,Good phone,This phone has a good screen and a great battery for daily use.
+1,Bad phone,This phone has a bad screen and a poor battery after one week.
+2,Great battery,The battery lasts all day and the phone is easy to use.
+1,Poor battery,The battery does not last and the phone is not easy to use.
+2,Clear screen,The screen is clear and bright and the quality is good.
+1,Dark screen,The screen is dark and the quality is bad in daylight.
+2,Good price,This cheap phone has a fair price and good quality for calls.
+1,Expensive phone,This expensive phone has a high price and poor quality for calls.
+2,Easy setup,The phone setup is easy and the instructions are clear for a beginner.
+1,Difficult setup,The phone setup is difficult and the instructions are not clear for a beginner.
+2,Great sound,The sound is clear and the battery is good during music playback.
+1,Bad sound,The sound is poor and the battery gets hot during music playback.
+2,Good charger,This cheap charger is easy to connect and works well with my phone.
+1,Bad charger,This expensive charger is not easy to connect and does not work with my phone.
+2,Great case,The phone case has good quality and a low price with a smooth finish.
+1,Poor case,The phone case has bad quality and a high price with a rough finish.
+2,Bright display,The bright screen looks great outdoors and the controls are easy to read.
+1,Dim display,The dim screen looks bad outdoors and the controls are hard to read.
+2,Reliable device,The phone is reliable and the battery is still good after a month.
+1,Unreliable device,The phone is unreliable and the battery is already poor after a month.
+2,Helpful design,The design is simple and the screen remains clear for reading messages.
+1,Confusing design,The design is confusing and the screen is not clear for reading messages.
+2,Good value,This phone is cheap but the sound and screen are both good for its price.
+1,Bad value,This phone is expensive but the sound and screen are both bad for its price.

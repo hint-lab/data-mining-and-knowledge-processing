@@ -2,6 +2,13 @@
 
 上海大学《数据挖掘与知识处理》课程实验参考代码 / Data Mining and Knowledge Processing Experiment Course Reference Code, CES, Shanghai Univ.
 
+## 2026 秋季实验
+
+- [实验1：词向量表示与相似度分析](2026-autumn/exp01-word2vec/README.md)：完整参考代码，包含训练数据准备、两个窗口对照、近邻与词对分析、PCA/t-SNE图，以及供TextCNN使用的词表和Embedding导出。
+- 2026版实验2—4尚未发布；下方 `2025-spring` 为历史参考代码，不能视为新版实验包已经完成。
+
+实验1的演示数据是人工编写的合成数据，只用于检查程序流程。正式实验请按说明获取并固定训练数据；不要用开发集或测试集训练词向量。
+
 ## 项目简介 / Project Description
 
 本仓库包含数据挖掘与知识处理课程的实验参考代码。这些代码示例旨在帮助学生更好地理解和实践课程中的重要概念。
