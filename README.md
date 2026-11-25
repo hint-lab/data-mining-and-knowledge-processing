@@ -6,7 +6,9 @@
 
 - [实验1：词向量表示与相似度分析](2026-autumn/exp01-word2vec/README.md)：完整参考代码，包含训练数据准备、两个窗口对照、近邻与词对分析、PCA/t-SNE图，以及供TextCNN使用的词表和Embedding导出。
 - [实验2：基于 TextCNN 的情感分类](2026-autumn/exp02-textcnn/README.md)：比较随机词嵌入和实验 1 的 Word2Vec 初始化，输出训练曲线、测试指标和误判样本。
-- 2026 版实验 3、4 尚未发布。下方 `2025-spring` 目录保留历年参考代码。
+- [实验3：医学文档实体与关系抽取（参考课件 PDF）](2026-autumn/exp03-medical-knowledge-extraction/slides.pdf) · 比较两版提示词的证据约束，把人工核验的三元组交给实验 4。
+- [实验4：抽取结果辅助的文档问答系统（参考课件 PDF）](2026-autumn/exp04-evidence-assisted-rag/slides.pdf) · 在同一批检索候选上比较普通 RAG 和知识辅助重排。
+- 实验 3、4 的 2026 版参考代码尚未发布。下方 `2025-spring` 目录保留历年参考代码。
 
 实验1的演示数据是人工编写的合成数据，只用于检查程序流程。正式实验请按说明获取并固定训练数据；不要用开发集或测试集训练词向量。
 
